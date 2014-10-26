@@ -2,7 +2,7 @@ Macosx/Linux(Ubuntu) java Jni Demo
 ===================
 
 java调用C函数
-Macosx和Ubuntu下的编译参数
+Macosx和Ubuntu下的编译参数 
 
 ##mac osx
     #!/bin/sh
